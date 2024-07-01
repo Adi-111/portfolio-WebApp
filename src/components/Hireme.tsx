@@ -1,7 +1,7 @@
 import { content } from "../Content";
 
 const Hireme = () => {
-  const { hireme } = content;
+  const  { hireme } = content;
 
   return (
     <section className="bg-bg_light_primary">

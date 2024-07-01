@@ -10,6 +10,7 @@ import Testimonials from "./components/Testimonials";
 import Hireme from "./components/Hireme";
 import Contact from "./components/Contact";
 
+
 const App: React.FC = () => {
   useEffect(() => {
     Aos.init({
@@ -30,8 +31,8 @@ const App: React.FC = () => {
       <Hireme />
       <Contact />
       <footer className="p-3 text-center">
-        <h6 className="mb-3">Rythm Records</h6>
-        <p>codeaprogram © All CopyRights Reserved 2022</p>
+        <h6 className="mb-3">Web Portfolio</h6>
+        <p>Adi-111 © All CopyRights Reserved Github 2024</p>
       </footer>
     </div>
   );
